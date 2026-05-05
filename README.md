@@ -5,7 +5,8 @@
 ## Installation
 
 ```shell
-cargo install --git https://github.com/rajatsharma/grip
+pnpm install
+pnpm build
 ```
 
 ## Usage

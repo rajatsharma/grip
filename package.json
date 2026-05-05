@@ -1,0 +1,17 @@
+{
+  "name": "grip",
+  "version": "0.2.0",
+  "description": "Clone a github repo, install packages and open VSCode using one command",
+  "type": "module",
+  "bin": {
+    "grip": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^5.7.0"
+  }
+}

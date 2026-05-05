@@ -1,7 +1,0 @@
-[package]
-name = "grip"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-pervasives = { git = "https://github.com/rajatsharma/pervasives", version = "0.1.0" }
